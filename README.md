@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate frontent developer from Afghanistan</h3>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadmohammadi785-crypto](https://github.com/mohammadmohammadi785-crypto)
 
