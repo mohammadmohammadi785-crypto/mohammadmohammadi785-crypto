@@ -20,7 +20,7 @@
   </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
-<a href="react.dev" target="_blank" rel="noreferrer"> <img src="./react-brands-solid-full.svg" alt="js" width="30" height="30"/> </a>
+<a href="react.com" target="_blank" rel="noreferrer"> <img src="./react-brands-solid-full.svg" alt="js" width="30" height="30"/> </a>
   </a>
 <a href="https://www.nextjs.com" target="_blank" rel="noreferrer"> <img src="./favicon.ico" alt="nextjs" width="30" height="30"/> </a>
 </a>
