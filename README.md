@@ -27,6 +27,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./php-brands-solid-full.svg" alt="laravel" width="30" height="30"/> </a>
 <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="./laravel.svg" alt="laravel" width="30" height="30"/> </a>
 <a href="redux.svg" target="_blank" rel="noreferrer"> <img src="./redux1.svg" alt="redux" width="30" height="30"/> </a>
-<a href="typescript.com" target="_blank" rel="noreferrer"> <img src="./typescript.svg" alt="TypeScript" width="30" height="30"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="./typescript.svg" alt="TypeScript" width="30" height="30"/> </a>
 <a href="vite.com" target="_blank" rel="noreferrer"> <img src="./vite.svg" alt="vite" width="30" height="30"/> </a>
 </p>
