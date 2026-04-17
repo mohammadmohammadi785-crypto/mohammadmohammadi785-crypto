@@ -23,12 +23,10 @@
 <a href="react.dev" target="_blank" rel="noreferrer"> <img src="./react-brands-solid-full.svg" alt="js" width="40" height="40"/> </a>
   </a>
 <a href="https://www.nextjs.com" target="_blank" rel="noreferrer"> <img src="./favicon.ico" alt="nextjs" width="40" height="40"/> </a>
-  </a>
-
+</a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./php-brands-solid-full.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="./laravel.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="redux.svg" target="_blank" rel="noreferrer"> <img src="./redux1.svg" alt="redux" width="40" height="40"/> </a>
 <a href="typescript.com" target="_blank" rel="noreferrer"> <img src="./typescript.svg" alt="TypeScript" width="40" height="40"/> </a>
 <a href="vite.com" target="_blank" rel="noreferrer"> <img src="./vite.svg" alt="vite" width="40" height="40"/> </a>
-
 </p>
